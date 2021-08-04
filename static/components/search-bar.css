@@ -1,0 +1,16 @@
+.search {
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-top: 70px;
+}
+
+.search_bar {
+	align-items: center;
+}
+.search_bar > input {
+	width: 400px;
+	height: 50px;
+	border-radius: 20px;
+}

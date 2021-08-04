@@ -1,0 +1,18 @@
+table, th, td {
+	border: 1px solid #336EFF;
+}
+
+table {
+	width: 70%;
+	margin: auto;
+	margin-top: 70px;
+  text-align: center;  
+  /* border-collapse: collapse; */
+  border-radius: 20px;
+  border-style: hidden;
+  box-shadow: 0 0 0 2px #336EFF;
+}
+
+th, td {
+  padding: 15px;
+}
